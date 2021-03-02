@@ -15,7 +15,7 @@ Features
 Usage
 -----
 1. Download the [whole archive](https://github.com/maaaaz/thc-hydra-windows/archive/master.zip)
-2. Extract it and run `hydra.exe`
+2. Extract it and run `hydra.exe` in Powershell
 3. Profit
 
 Prerequisites
