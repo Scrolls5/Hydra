@@ -18,6 +18,8 @@ Usage
 2. Extract it and run `hydra.exe` in Powershell
 3. Profit
 
+More info can be found on the official github. https://github.com/vanhauser-thc/thc-hydra
+
 Prerequisites
 -------------
 * [Microsoft Visual C++ 2008 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=29)
